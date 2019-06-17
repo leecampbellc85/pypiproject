@@ -1,5 +1,5 @@
 """Setuptools for pypi-project.
-	Empty example PYPI package by The1bit
+	Empty example PYPI package by leecampbellc85
 """
 
 # Always prefer setuptools over distutils
@@ -36,13 +36,13 @@ setup(name='pypi-project',
     ],
 	python_requires='>=2.6, <3',
     version=__version__,
-	description='pypi-project - Empty example PYPI package by The1bit',
+	description='pypi-project - Empty example PYPI package by leecampbellc85',
 	long_description=README,
 	long_description_content_type="text/markdown",
-	url='https://github.com/the1bit/pypi-project',
-	author='the1bit',
-	author_email='youremail@mustbe.valid',
-	keywords='python the1bithu',
+	url='https://github.com/leecampbellc85/pypi-project',
+	author='leecampbellc85',
+	author_email='lee.campbell.c85@hotmail.com',
+	keywords='python leecampbellc85hu',
 	classifiers=[  # Optional
 		# How mature is this project? Common values are
 		#   3 - Alpha

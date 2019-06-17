@@ -1,4 +1,4 @@
-Empty example PYPI package by The1bit
+Empty example PYPI package by leecampbellc85
 ############################################
 
 
@@ -32,7 +32,7 @@ Basic install
 (install without cache: pip install pypi-project --no-cache-dir  )
 
 
-You can find the detailed documentation in https://github.com/the1bit/pypi-project.
+You can find the detailed documentation in https://github.com/leecampbellc85/pypi-project.
 
 
 Usage
